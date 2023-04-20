@@ -1,2 +1,0 @@
-productID,categoryID,productName,periodFrom,periodTo,sumFrom,sumTo,expiredDate,isActive
-1,1,Default,16,31,3000,30000,-,1
