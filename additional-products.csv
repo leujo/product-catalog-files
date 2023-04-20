@@ -1,6 +1,5 @@
-tariffID,tariffName,periodFrom,periodTo,sumFrom,sumTo,expiredDateTime,isActive,interestRate
-1,Старт 14 дней без % (1%),16,30,3000,30000,-,1,1
-3,Бронза (0.95%),16,30,3000,30000,-,1,0.95
-4,Золото (0.87%),16,30,3000,30000,-,1,0.87
-5,Платина (0.85%),16,30,3000,30000,-,1,0.85
-6,Бриллиант (0.83%),16,30,3000,30000,-,1,0.83
+additionalProductID,additionalProductCategoryID,additionalProductName,cost,expiredDate,isActive
+1,1,Страховка от несчастного случая,500,-,1
+1,1,Юридическая помощь,1800,-,1
+1,1,Мультисервис,1000,-,1
+1,1,Теледоктор,1900,-,1
