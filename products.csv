@@ -1,6 +1,2 @@
-tariffID,tariffName,periodFrom,periodTo,sumFrom,sumTo,expiredDateTime,isActive,interestRate
-1,Старт 14 дней без % (1%),16,30,3000,30000,-,1,1
-3,Бронза (0.95%),16,30,3000,30000,-,1,0.95
-4,Золото (0.87%),16,30,3000,30000,-,1,0.87
-5,Платина (0.85%),16,30,3000,30000,-,1,0.85
-6,Бриллиант (0.83%),16,30,3000,30000,-,1,0.83
+productID,categoryID,productName,periodFrom,periodTo,sumFrom,sumTo,expiredDate,isActive
+1,1,Default,16,31,3000,30000,-,1
