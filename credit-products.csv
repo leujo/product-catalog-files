@@ -1,2 +1,2 @@
-creditProductID,creditProductCategoryID,creditProductName,periodFrom,periodTo,sumFrom,sumTo,expiredDate,isActive
-1,1,Default,16,31,3000,30000,-,1
+creditProductID,creditProductCategoryID,legalEntityID,brandID,creditProductName,periodFrom,periodTo,sumFrom,sumTo,expiredTime,enabled
+1,1,00000000-0002-0000-0007-000000000000,00000000-0005-0000-0001-000000000000,Основной,16,31,3000,30000,9999-12-31T12:00:00.000+0700,1
