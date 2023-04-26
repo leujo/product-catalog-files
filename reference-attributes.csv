@@ -1,6 +1,6 @@
 referenceAttributeID,referenceAttributeName,referenceParentAttributeID,referenceAttributeTypeID
-1,Новый клиент,1
-2,Повторный клиент,1
+1,Новый клиент,null,1
+2,Повторный клиент,null,1
 3,Клиент с одним займом,2,2
 4,Клиент с двумя займами,2,2
 5,Клиент с тремя займами,2,2
