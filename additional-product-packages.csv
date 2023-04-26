@@ -1,2 +1,2 @@
-additionalProductPackageID,additionalProductPackageName,marketPlaceID,expiredDate,disabled
-1,Основной,1,-,1
+additionalProductPackageID,additionalProductPackageName,marketPlaceID,version,author,timestamp,expiredTime,enabled
+1,ПДП-1,1,1.0,Иванов Андрей Игоревич,2023-04-19T12:01:01.556+0700,9999-12-31T12:00:00.000+0700,1
