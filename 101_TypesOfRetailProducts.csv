@@ -1,0 +1,11 @@
+isActive;slug;isBasic;name;description;createdBy;createdAt;changedBy;changedAt;removedBy;removedAt
+true;TypesOfRetailProducts_MainProducts;false;Основные продукты;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
+true;TypesOfRetailProducts_AdditionalProducts;false;Дополнительные продукты;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
+true;TypesOfRetailProducts_PDL;true;Займ;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
+true;TypesOfRetailProducts_IL;true;Кредит в рассрочку;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
+true;TypesOfRetailProducts_Cross;false;Кросс;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
+false;TypesOfRetailProducts_Pulse;false;Импульсный;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
+false;TypesOfRetailProducts_Subscription;false;Подписка;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
+false;TypesOfRetailProducts_Contribution;true;Вклад;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
+false;TypesOfRetailProducts_Deposit;true;Депозит;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
+false;TypesOfRetailProducts_Credit;true;Кредит;;mvgrishchenko@fintechiq.ru;2023-06-18T00:00:00.000+1000;;;;
